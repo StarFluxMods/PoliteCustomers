@@ -13,6 +13,7 @@ Well now they will clean their own plates, and floor messes!
 ## Installation
 
 - To install PoliteCustomers, you need to add `PoliteCustomers.dll` into your `PlateUp/Mods/` directory.
+- Or you can install from our [Package Manager](https://github.com/KitchenMods/PlateUp-Package-Manager) repo `http://plateup.starfluxgames.com/Repo`
 
 ## Usage
 
