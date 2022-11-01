@@ -5,6 +5,8 @@
 Feel like you shouldn't have to clean up after customers?
 Well now they will clean their own plates, and floor messes!
 
+PoliteCustomers makes customers leave their plates clean, and they won't make any mess on the floor!
+
 ## Requirements
 
 - MelonLoader >= 0.5.7
